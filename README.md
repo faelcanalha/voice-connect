@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Voice Connect</h1>
   <p>Deixe um certo numero de usuário conectado em um canal de voz</p>
+  <p>Cuidado, isso é contra os Termos do Discord, Use por conta e risco!</p>
 </div>
 
 # 📡 Conexão:
