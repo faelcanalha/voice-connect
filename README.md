@@ -30,12 +30,13 @@
             "2": "Token do outro usuário"
         },
         "ChannelVoiceID": {
-            "1": "ID do canal aqui,
-            "2": "Id do outro usuário"
+            "1": "ID do canal aqui",
+            "2": "ID do outro usuário"
         }
     }
 }
 });
+```
 
 # No `index.js`
 ```js
