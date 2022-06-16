@@ -13,7 +13,7 @@
             "1": "Token aqui"
         },
         "ChannelVoiceID": {
-            "1": "Id do canal aqui
+            "1": "Id do canal aqui"
         }
     }
 }
