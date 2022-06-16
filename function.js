@@ -21,12 +21,12 @@ async function client(x) {
         let channel = client.channels.cache.get(config.Connections.ChannelVoiceID[x])
         channel.join()
         .then(() => {
-            sucess(`Conectado no canal de voz: ${channel.name} | Server: ${channel.guild.name} | ` + `${client.user.tag} | TOKEN-${x}`.cyan)
+            sucess(`Connected to voice channel: ${channel.name} | Server: ${channel.guild.name} | ` + `${client.user.tag} | TOKEN-${x}`.cyan)
         })
     })
     client.login(config.Connections.Tokens[x])
     .catch(() => {
-        error("Não foi possível conectar ao " + `TOKEN-${x}`.cyan)
+        error("Could not connect to " + `TOKEN-${x}`.cyan)
     })
 }
 module.exports.error = error
