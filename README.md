@@ -17,7 +17,6 @@
         }
     }
 }
-});
 ```
 
 # 👷 Como adicionar mas usuário para conectar?:
