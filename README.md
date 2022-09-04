@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Voice Connect</h1>
+  <h1>Voice Connect [OUTDATED]</h1>
   <p>Leave a certain number of user logged into a voice channel</p>
   <p>Caution, this is against Discord Terms, Use at your own risk!</p>
 </div>
