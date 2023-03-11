@@ -4,8 +4,8 @@
   <p>Caution, this is against Discord Terms, Use at your own risk!</p>
 </div>
 
-# 📡 Conexão:
-#### Va ate o `config.json`:
+# 📡 Connection:
+#### Go to `config.json`:
 ```json
 {
     "Connections": {
